@@ -90,7 +90,11 @@ Engagement Time Based Segments
 2)Topic Engagement Times
 
 
-3)Section Engagement TimesSession Based Segments
+3)Section Engagement Times
+
+
+
+Session Based Segments
 
 
 1)Session count
