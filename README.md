@@ -145,7 +145,8 @@ This covers different domains Personas
 
 These data points are supplied to AdManager for personalised campaigns and personalised content recommendations.
 
-Layer 2 scaled blockchain stack for -
+
+```Layer 2 scaled blockchain stack for``` 
 
 
 
