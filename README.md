@@ -56,7 +56,7 @@ I sincerely believe, these reports and data patterns play a very significant rol
 
 
 
-Publisher Data Currency and its Applications -
+```Publisher Data Currency and its Applications``` 
 
 
 
@@ -80,11 +80,11 @@ User Data Points are derived in different domains based on user impression/click
 
 
 
-Publisher Analytic Segments
+```Publisher Analytic Segments```
 
 
 
-Engagement Time Based Segments
+```Engagement Time Based Segments```
 
 
 
@@ -98,7 +98,7 @@ Engagement Time Based Segments
 
 
 
-Session Based Segments
+```Session Based Segments```
 
 
 
@@ -119,7 +119,7 @@ Session Based Segments
 
 
 
-Machine Learning based Segments
+```Machine Learning based Segments```
 
 
 
@@ -166,7 +166,7 @@ Layer 2 scaled blockchain stack for -
 
 
 
-Different tokens available
+```Different tokens available```
 
 
 
